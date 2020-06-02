@@ -9,4 +9,6 @@
 
 **Languages and frameworks**: *Python* | *NumPy* | *TensorFlow*
 
-## [Open the Notebook](https://github.com/gregtozzi/diagnosing_pneumonia/blob/master/Diagnosing_Pneumonia_from_Pediatric_Chest_X_Rays.ipynb)
+### [Open the Notebook](https://github.com/gregtozzi/diagnosing_pneumonia/blob/master/Diagnosing_Pneumonia_from_Pediatric_Chest_X_Rays.ipynb)
+
+### [Back to Portfolio](https://github.com/gregtozzi/portfolio)
