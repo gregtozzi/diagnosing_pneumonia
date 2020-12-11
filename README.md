@@ -1,4 +1,4 @@
-# Diagnosing Pneumonia from Pediatric Chest X-Rays with Deep Learning
+# Detecting Pneumonia in Pediatric Chest X-Rays with Deep Learning
 
 #### [Greg Tozzi](https://www.linkedin.com/in/gregorytozzi/) | May, 2020
 
